@@ -1,2 +1,2 @@
-# articles_private
-Private staging area for code examples
+# articles
+Code examples used in various articles.
